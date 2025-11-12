@@ -1,3 +1,9 @@
+# Archived
+This repo is archived based on Mario's request https://jimdo.slack.com/archives/C02U0AANG/p1762444320862379
+
+
+
+
 # 📌 Maintain One Comment
 
 ![](https://img.shields.io/github/workflow/status/actions-cool/maintain-one-comment/CI?style=flat-square)
